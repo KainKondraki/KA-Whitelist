@@ -1,2 +1,3 @@
 # KA online whitelist - one SteamID64 per line
 76561198869270713
+76561198863486667
